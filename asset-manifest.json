@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GeminiClone/static/css/main.566c468f.css",
+    "main.js": "/GeminiClone/static/js/main.01358907.js",
+    "static/media/user_icon.png": "/GeminiClone/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/GeminiClone/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/GeminiClone/index.html",
+    "main.566c468f.css.map": "/GeminiClone/static/css/main.566c468f.css.map",
+    "main.01358907.js.map": "/GeminiClone/static/js/main.01358907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566c468f.css",
+    "static/js/main.01358907.js"
+  ]
+}

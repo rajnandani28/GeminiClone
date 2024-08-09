@@ -123,7 +123,7 @@
     display: flex;
     align-items: start;
     gap: 20px;
-    justify-content: center;
+/*     justify-content: center; */
 }
 .loader{
     width: 100%;
